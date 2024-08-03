@@ -48,11 +48,11 @@
         <h3>Login</h3>
         <div>
             <label for="usuario">Usuário:</label>
-            <input type="text" name="usuario" id="usuario">
+            <input type="email" name="usuario" id="usuario">
         </div>
         <div>
             <label for="senha">Senha:</label>
-            <input type="text" name="senha" id="senha">
+            <input type="password" name="senha" id="senha">
         </div>
         <div>
             <button>Entrar</button>
